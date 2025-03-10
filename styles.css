@@ -11,3 +11,6 @@
     -webkit-background-clip: text;
     font-size: 2rem
 }
+button{
+    cursor: pointer;
+}
